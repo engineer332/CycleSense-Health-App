@@ -1,5 +1,5 @@
-## V1: APPLICATION STILL IN PROGRESS-expected to be published before December 2026.
-
+## APPLICATION STILL IN DEVELOPMENT-expected to be published before December 2026.
+CycleSense is a health application currently available as an initial release. V1 focuses on the core application experience, while advanced features are being developed for V2.
 ## V2: Features In Development:
 Authentication, Validation and Machine Learning powered predictions and insights
  # React + Vite
