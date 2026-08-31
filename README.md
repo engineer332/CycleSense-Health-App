@@ -1,19 +1,16 @@
+# React + Vite
 
-# 🩷 CycleSense Health App
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-A health web based platform which helps people with mental and physical health predictions and insights using cycle tracking.
+Currently, two official plugins are available:
 
-## 🚀 Status
-**COMING SOON** - Still in Progress
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## ✨ Planned Features
-- **Cycle Tracking**: Predict periods, ovulation, fertile window
-- **Health Insights**: Mental + Physical health predictions 
-- **Reminders**: Smart notifications so you never forget
-- **Privacy First**: All data stays secure
+## React Compiler
 
-## 📧 Stay Updated
-Interested in beta testing? Email: cornelliuspondo@gmail.com
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
----
-Built with ❤️ by Cornellius
+## Expanding the Oxlint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
