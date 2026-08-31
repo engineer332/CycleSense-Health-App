@@ -1,6 +1,6 @@
-## APPLICATION STILL IN PROGRESS-expected to be published before December 2026.
+## V1: APPLICATION STILL IN PROGRESS-expected to be published before December 2026.
 
-## Features in progress:
+## V2: Features in progress:
 Authentication and Machine Learning Models
  # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
