@@ -1,9 +1,9 @@
-# React + Vite
 ## APPLICATION STILL IN PROGRESS-expected to be published before December 2027.
 
 ## Features in progress:
-# Authentication
-# Machine Learning Models
+Authentication
+ Machine Learning Models
+ # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:
